@@ -1,0 +1,1 @@
+NOTE: Just checking git configuration
